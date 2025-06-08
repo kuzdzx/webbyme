@@ -1,0 +1,233 @@
+[
+  {
+    "name": "HeeJin",
+    "color": "Bright Pink",
+    "location": "Earth",
+    "superpower": "Vision",
+    "emotion": [
+      "Curiosity",
+      "Optimism"
+    ],
+    "flower": {
+      "name": "Love Plant",
+      "alternateName": "False Shamrock"
+    },
+   "history": "HeeJin is regarded as the first to 'awaken' in the LOONAVERSE, symbolizing the origin or starting point. Fans see her as a figure who brings color to the universe by rallying the other LOONA members. A popular theory likens her to a mythical or demigod hero rather than a god. Each member has unique powers, but their true 'godlike' influence emerges only when united. HeeJin’s association with white symbolizes purity and a blank canvas, highlighting her foundational role in the LOONAVERSE.",
+   "abilities": [
+      "Control of the entire rainbow",
+      "Teleportation (Egoist)",
+      "World creation (ViViD)",
+      "Cloning herself (love4eva)"
+    ]
+  },
+  {
+    "name": "HyunJin",
+    "color": "Yellow",
+    "location": "Moon",
+    "superpower": "Light Manipulation",
+    "emotion": [
+      "Confidence",
+      "Determination"
+    ],
+    "flower": {
+      "name": "Sunflower"
+    },
+    "history": "HyunJin, the second member to awaken in the LOONAVERSE, symbolizes the transition from innocence to strength. As the leader of the moon faction, she works to harness the power of light and guide others through darkness. She is often seen using her powers to illuminate paths for the other members and is known for her resolute determination in the face of challenges.",
+    "abilities": [
+      "Control and manipulation of light",
+      "Creation of barriers using light",
+      "Healing through light"
+    ]
+  },
+  {
+    "name": "HaSeul",
+    "color": "Green",
+    "location": "Forest",
+    "superpower": "Wind Control",
+    "emotion": [
+      "Calm",
+      "Wisdom"
+    ],
+    "flower": {
+      "name": "Morning Glory"
+    },
+    "history": "HaSeul, with her calming presence and deep wisdom, commands the winds in the LOONAVERSE. She is often seen as a guide and mentor to the others, offering advice and insight. As a symbol of freedom, HaSeul has the ability to move between realms using the wind and helps the members reach new heights in their journeys.",
+    "abilities": [
+      "Control of wind and air currents",
+      "Teleportation via wind",
+      "Creating protective wind barriers"
+    ]
+  },
+  {
+    "name": "YeoJin",
+    "color": "Purple",
+    "location": "Dreamscape",
+    "superpower": "Dream Manipulation",
+    "emotion": [
+      "Innocence",
+      "Wonder"
+    ],
+    "flower": {
+      "name": "Wisteria"
+    },
+    "history": "YeoJin embodies the realm of dreams and imagination. Her powers allow her to enter and manipulate dreams, guiding others through their subconscious. She is often seen as a beacon of innocence and wonder, reminding others of the beauty found in dreams.",
+    "abilities": [
+      "Entering and manipulating dreams",
+      "Creating dreamscapes",
+      "Providing guidance through dreams"
+    ]
+  },
+  {
+    "name": "ViVi",
+    "color": "Light Purple",
+    "location": "Moon",
+    "superpower": "Time Manipulation",
+    "emotion": [
+      "Serenity",
+      "Mystery"
+    ],
+    "flower": {
+      "name": "Cineraria"
+    },
+    "history": "ViVi represents the timeless nature of the moon. Her powers allow her to manipulate time, slowing it down or speeding it up as needed. She is often seen as a serene and mysterious figure, offering wisdom and guidance to those in need.",
+    "abilities": [
+      "Manipulation of time",
+      "Ability to see past and future events",
+      "Creation of time loops for protection"
+    ]
+  },
+  {
+    "name": "Kim Lip",
+    "color": "Red",
+    "location": "Sun",
+    "superpower": "Illusion Creation",
+    "emotion": [
+      "Passion",
+      "Leadership"
+    ],
+    "flower": {
+      "name": "Lily"
+    },
+    "history": "Kim Lip embodies the sun's radiant energy, her passion driving her to create illusions that help guide the LOONAVERSE members through challenging situations. With her ability to create lifelike illusions, she can manipulate the environment and help others see things from a different perspective. Her power is tied closely to her leadership qualities, often leading others through the darkest of times.",
+    "abilities": [
+      "Creation of illusions",
+      "Manipulation of light and shadows",
+      "Ability to deceive the senses to protect others"
+    ]
+  },
+  {
+    "name": "JinSoul",
+    "color": "Dark Blue",
+    "location": "Ocean",
+    "superpower": "Gravity Manipulation",
+    "emotion": [
+      "Calm",
+      "Mysterious"
+    ],
+    "flower": {
+      "name": "Bluebell"
+    },
+    "history": "JinSoul represents the deep and mysterious nature of the ocean. Her powers allow her to manipulate gravity, affecting the weight and movement of objects. She is often seen as a calm and mysterious figure, offering insight and guidance to those who seek it.",
+    "abilities": [
+      "Manipulation of gravity",
+      "Ability to control the weight of objects",
+      "Creation of gravitational fields"
+    ]
+  },
+  {
+    "name": "Choerry",
+    "color": "Orange",
+    "location": "Sunset Realm",
+    "superpower": "Light and Shadow Manipulation",
+    "emotion": [
+      "Joy",
+      "Playfulness"
+    ],
+    "flower": {
+      "name": "Marigold"
+    },
+    "history": "Choerry embodies the balance between light and shadow. Her powers allow her to manipulate both, creating illusions and guiding others through the interplay of light and dark. She is often seen as a joyful and playful figure, bringing balance to the LOONAVERSE.",
+    "abilities": [
+      "Manipulation of light and shadows",
+      "Creation of illusions",
+      "Guiding others through light and dark"
+    ]
+  },
+  {
+    "name": "Yves",
+    "color": "Burgundy",
+    "location": "Sky",
+    "superpower": "Temptation and Truth",
+    "emotion": [
+      "Rebellion",
+      "Self-Awareness"
+    ],
+    "flower": {
+      "name": "Apple Blossom"
+    },
+    "history": "Yves represents free will and rebellion in the LOONAVERSE. Her story is closely linked with themes of temptation and breaking away from control. She challenges the norms of the world she's in, leading others to question their reality.",
+    "abilities": [
+      "Influence decisions through temptation",
+      "Reveal hidden truths",
+      "Guide others through emotional awakening"
+    ]
+  },
+  {
+    "name": "Chuu",
+    "color": "Peach",
+    "location": "Forest",
+    "superpower": "Love Projection",
+    "emotion": [
+      "Happiness",
+      "Love"
+    ],
+    "flower": {
+      "name": "Peach Blossom"
+    },
+    "history": "Chuu embodies joy and affection. Her role in the LOONAVERSE centers around emotional bonding and spreading love. Despite darker themes around her, she serves as an emotional heart of the group, supporting the other members.",
+    "abilities": [
+      "Project powerful love energy",
+      "Heal emotional wounds",
+      "Strengthen team unity and bonds"
+    ]
+  },
+  {
+  "name": "Go Won",
+  "color": "Eden Green",
+  "location": "Eden",
+  "superpower": "Influence Over Change",
+  "emotion": [
+    "Hope",
+    "Transformation"
+  ],
+  "flower": {
+    "name": "Plum Blossom"
+  },
+  "history": "Go Won is known as 'The Princess' of the LOONAVERSE, symbolizing rebirth and enlightenment. She was persuaded to leave Eden by Yves and Chuu, marking a significant transformation in her journey. Her presence is often linked to the butterfly effect, hinting at her ability to influence change.",
+  "abilities": [
+    "Summon and control hurricanes",
+    "Guide transformations within the LOONAVERSE",
+    "Act as a bridge between Eden and the outside world"
+  ]
+},
+  {
+    "name": "Olivia Hye",
+    "color": "Silver",
+    "location": "Eclipse Realm",
+    "superpower": "Transformation",
+    "emotion": [
+      "Loneliness",
+      "Resilience"
+    ],
+    "flower": {
+      "name": "Wolf's Bane"
+    },
+    "history": "Olivia Hye is often portrayed as a darker, more introspective figure. Her journey involves themes of isolation, betrayal, and inner strength. She represents the final piece of the LOONAVERSE puzzle, completing the story’s full emotional spectrum.",
+    "abilities": [
+      "Transform herself and her surroundings",
+      "Harness power from inner conflict",
+      "Shift realities or planes within the LOONAVERSE"
+    ]
+  }
+]
+
