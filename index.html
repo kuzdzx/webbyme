@@ -320,7 +320,7 @@ document.getElementById('mobile-menu-icon').addEventListener('click', function()
 // Function to load member data from the JSON file
 async function loadMembers() {
   try {
-    const url = new URL('./data/characters.json', window.location.href);
+    const url = new URL('characters.json', window.location.href);
     console.log('Fetching from:', url.href);
     
     const response = await fetch(url);
